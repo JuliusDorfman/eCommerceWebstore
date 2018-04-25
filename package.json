@@ -1,0 +1,16 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple Bookstore App",
+  "main": "app.js",
+  "author": "JuliusDorfman <juliusdorfman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "*",
+    "body-parser": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
